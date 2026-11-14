@@ -4,18 +4,20 @@
     "url": "https://api.shakewellwallet.com/up",
     "icon": "https://icons.duckduckgo.com/ip3/api.shakewellwallet.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10449,
-    "timeDay": 10449,
-    "timeWeek": 10449,
-    "timeMonth": 10449,
-    "timeYear": 10449,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.08%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "97.08%",
+    "time": 7294,
+    "timeDay": 7294,
+    "timeWeek": 7294,
+    "timeMonth": 7294,
+    "timeYear": 7294,
+    "dailyMinutesDown": {
+      "2026-11-14": 5
+    }
   },
   {
     "name": "Website",
