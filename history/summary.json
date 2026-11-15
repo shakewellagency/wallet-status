@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.shakewellwallet.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "97.08%",
-    "time": 7294,
-    "timeDay": 7294,
-    "timeWeek": 7294,
-    "timeMonth": 7294,
-    "timeYear": 7294,
-    "dailyMinutesDown": {
-      "2026-11-14": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5851,
+    "timeDay": 5851,
+    "timeWeek": 5851,
+    "timeMonth": 5851,
+    "timeYear": 5851,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 418,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 214,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 163,
+    "timeDay": 163,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   }
 ]
